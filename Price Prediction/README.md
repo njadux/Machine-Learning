@@ -10,7 +10,7 @@ This project uses **multiple variable linear regression** to predict house price
 3. **Model Building:** Train a multiple variable linear regression model to predict house prices.
 4. **Model Evaluation:** Evaluate the model using the cost function and visualize the results.
 
-Dataset
+## Dataset
 This project uses a dataset of house prices with multiple features (e.g., size, bedrooms, bathrooms, etc.) for training the linear regression model. The dataset file is kc_final.csv.
 
 ## Requirements
