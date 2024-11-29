@@ -6,11 +6,6 @@ This Python project predicts the presence of anemia based on health parameters l
 
 ## Requirements
 
-To run this project, you'll need to install the required libraries. You can do this by running:
-
-```bash
-pip install -r requirements.txt
-
 The required libraries are:
 
 numpy
@@ -21,9 +16,10 @@ scikit-learn
 Dataset
 The project uses an anemia dataset (anemia.csv) that contains health data and an outcome column (Result) indicating whether the patient is anemic (1) or not (0).
 
-Usage
-Clone the repository or download the project files.
-Install the required dependencies by running:
-bash
-Copy code
+
+
+To run this project, you'll need to install the required libraries. You can do this by running:
+
+```bash
 pip install -r requirements.txt
+
