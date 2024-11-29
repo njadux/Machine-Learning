@@ -10,3 +10,20 @@ To run this project, you'll need to install the required libraries. You can do t
 
 ```bash
 pip install -r requirements.txt
+
+The required libraries are:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Dataset
+The project uses an anemia dataset (anemia.csv) that contains health data and an outcome column (Result) indicating whether the patient is anemic (1) or not (0).
+
+Usage
+Clone the repository or download the project files.
+Install the required dependencies by running:
+bash
+Copy code
+pip install -r requirements.txt
